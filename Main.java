@@ -1,3 +1,4 @@
+//Copyright (C) 2018 Ciaran Gallagher <ciaransgallagher@gmai.com>
 
 import java.io.*;
 import java.text.DecimalFormat;
